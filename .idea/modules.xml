@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAdapter/ClassAdapter.iml" filepath="$PROJECT_DIR$/ClassAdapter/ClassAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/DepedencyInversion/DepedencyInversion.iml" filepath="$PROJECT_DIR$/DepedencyInversion/DepedencyInversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory2/Factory2.iml" filepath="$PROJECT_DIR$/Factory2/Factory2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAdapter/InterfaceAdapter.iml" filepath="$PROJECT_DIR$/InterfaceAdapter/InterfaceAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjAdapter/ObjAdapter.iml" filepath="$PROJECT_DIR$/ObjAdapter/ObjAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleResponsibility/SingleResponsibility.iml" filepath="$PROJECT_DIR$/SingleResponsibility/SingleResponsibility.iml" />
